@@ -27,3 +27,5 @@ CREATE TABLE "licenses" (
 	PRIMARY KEY("id" AUTOINCREMENT)
 );
 ```
+
+Made with ♥ by @amosjulian
