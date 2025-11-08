@@ -28,4 +28,4 @@ CREATE TABLE "licenses" (
 );
 ```
 
-Made with ♥ by @amosjulian
+Made with ♥ by [@amosjulian][https://github.com/amosjulian]
